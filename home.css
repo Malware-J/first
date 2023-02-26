@@ -1,0 +1,66 @@
+html,body{
+    margin: 0;
+    background-image:url("green.jfif");
+    background-size: cover;
+}
+#title{
+    background-color: rgb(253, 219, 192,0.2);
+    text-align: center;
+    color: silver;
+    width: 100%;
+    height: 50px;
+    font-size: 40px;
+}
+#logo{
+    float: left;
+    margin-top: 25px;
+    width: 40%;
+    height: 425px;
+    background-color: aqua;
+}
+#mott{
+    margin-top: 10px;
+    float: right;
+    height: 450px; ;
+    width:58%;
+    background-color: rgb(253, 235, 211,0.0);
+    top: 0%;
+    font-size: 90px;
+    color: rgb(0, 0, 0);
+}
+#mot{
+    font-size: 70px;
+    color: rgba(31, 8, 3, 0.8);
+    text-align: center;
+    bottom: 0%;
+    height: 15%;
+    width: 100%;
+}
+#footer{
+    background-color: rgb(231, 111, 71,0.3);
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+}
+ #butt_1{
+    float: right;
+    width: 120px;
+    height: 30px;
+    border-radius: 40px;
+    background-image:url("green.jfif");
+    margin-top: 20px;
+    margin-right:10px ;
+    text-align: center;
+    font-size: 30px;
+    padding-top: 5px;
+    color: rgb(240, 198, 151);
+    font-family: Arial, Helvetica, sans-serif;
+}
+#wish{
+    float: left;
+    width: 1150px;
+    color: bisque;
+    font-size: 20px;
+    font-family: cursive;
+}
